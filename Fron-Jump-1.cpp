@@ -26,4 +26,4 @@ int32_t main()
 }
 
 // memoizatoin code : https://atcoder.jp/contests/dp/submissions/48412677
-// tabulation code : https://atcoder.jp/contests/dp/submissions/48422790
+// tabulation code  : https://atcoder.jp/contests/dp/submissions/48422790
